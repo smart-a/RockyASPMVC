@@ -387,5 +387,8 @@ C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyA
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyASPMVC\obj\Debug\net5.0\RockyASPMVC.csproj.AssemblyReference.cache
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyASPMVC\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyASPMVC\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
-C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyASPMVC\bin\Debug\net5.0\RockyASPMVC.StaticWebAssets.xml
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyASPMVC\obj\Debug\net5.0\refint\RockyASPMVC.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyASPMVC\obj\Debug\net5.0\Razor\Views\ApplicationType\Create.cshtml.g.cs
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyASPMVC\obj\Debug\net5.0\Razor\Views\ApplicationType\Delete.cshtml.g.cs
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyASPMVC\obj\Debug\net5.0\Razor\Views\ApplicationType\Edit.cshtml.g.cs
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\RockyASPMVC\RockyASPMVC\obj\Debug\net5.0\Razor\Views\ApplicationType\Index.cshtml.g.cs
