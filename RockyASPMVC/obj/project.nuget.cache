@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "t+P/S64+fAs2lRS5nl8h/M1//smdh5KUaNMNwhJD9q7MIRF2XvIM/bpBghtdsHYuDr2ZXhkUUEF/UguT5U9diw==",
+  "dgSpecHash": "0kpdszdjhe+EM+MSPKUtq9uN+TamxOif5BB5EACWrmxSUEig8qDebNVZECW9Ue5GIoTbUqCkMfb9CUWkEBitrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\SD-18\\Desktop\\My PC\\Adesoye Abeeb\\.NET Core Tutorial\\RockyASPMVC\\RockyASPMVC\\RockyASPMVC.csproj",
   "expectedPackageFiles": [
@@ -111,7 +111,8 @@
     "C:\\Users\\SD-18\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\SD-18\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\SD-18\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\SD-18\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\SD-18\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\SD-18\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
   ],
   "logs": []
 }
